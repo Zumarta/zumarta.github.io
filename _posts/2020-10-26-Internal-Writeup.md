@@ -1,9 +1,9 @@
-First of all this is my first writeup after solving a machine. I solved a few of TryHackme machines before, but these were all a lot more guided and easier and without any rabbit holes (or at least I did not find them).
-
-I hope it helps you to solve this machine like it helped me to read Writeups.
+Let's solve the machine: **Internal** available on [TryHackMe](https://tryhackme.com).  
 
 ## Introduction
-We are going to solve the machine: **Internal** available on [TryHackMe](https://tryhackme.com).  
+First of all this is my first writeup after solving a machine. I solved a few of TryHackMe machines before, but these were all a lot more guided and easier and without any rabbit holes (or at least I did not find them).
+
+I hope it helps you to solve this machine like it helped me to read Writeups.
 Before working with the machine, add an entry to your `/etc/hosts` mapping the IP (in my case `10.10.190.47`) to `internal.thm`.
 
 ## Recon
