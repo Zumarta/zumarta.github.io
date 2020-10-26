@@ -1,5 +1,3 @@
-# -Internal- Writeup
-
 First of all this is my first writeup after solving a machine. I solved a few of TryHackme machines before, but these were all a lot more guided and easier and without any rabbit holes (or at least I did not find them).
 
 I hope it helps you to solve this machine like it helped me to read Writeups.
